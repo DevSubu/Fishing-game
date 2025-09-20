@@ -1,0 +1,17 @@
+{"maps" : [
+    {"name": "Tortuga Bay", "oceanColor": [50, 150, 200],
+    "boatColor": "#8B451",
+    "islandColor": "#228B22"},
+
+    {"name": "Kraken Cove",
+    "oceanColor": [45, 60, 90],
+    "boatColor": "#3A3F44",
+    "islandColor": "#303030"
+    },
+    {"name": "Skeleton Atoll",
+    "oceanColor": [40, 60, 70],
+    "boatColor": "#DAA520",
+    "islandColor": "#A9A9A9"
+    }
+]
+}
